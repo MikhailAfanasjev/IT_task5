@@ -1,1 +1,1 @@
-# IT_task5
+# 18. interface Транспортное средство -> abstract class Автомобиль -> class Грузовик.
